@@ -1,0 +1,26 @@
+@charset "utf-8";
+.imgMariya {
+    height: 240px;
+   margin-bottom: 40px;
+}
+.myback{
+    background-image: url('images/back-blue-pink0.jpg');
+    background-size: auto;
+}
+#menuHeader{
+color:#77283B ;
+}
+.sixteen h2 {
+    color:#42514C ;
+   
+}
+/*.row.erste{
+    padding-bottom: 0;
+}
+.row.zweite{
+    padding-bottom: 55px;
+    
+}*/
+.name{
+    color:#77283B ;
+}
